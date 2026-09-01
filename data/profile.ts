@@ -14,5 +14,13 @@ export const profile = {
   interests: ["Exploring new business and technology","Football","Gym","Traveling"],
   activities: ["Business management","Kerak","Sports","NGO activities","Marketing","Luvit Chocolate","Sports and Arts"],
   career: {roles:["Biotechnologist","Bioinformatics Intern"],type:"Full Time",modes:["On-site","Remote","Hybrid"],locations:["Bengaluru","Hyderabad","Pune","Mumbai"],priorities:["Career advancement","Work from home option","Work-life balance","Personal development programs","Company culture","Flexible work hours","Team building / company retreats"]},
-  contact: { email: "", linkedin: "", github: "", resume: "" }
+  contact: {
+    email: "farsyshinal13@gmail.com",
+    phone: "+919995131522",
+    phoneDisplay: "+91 99951 31522",
+    whatsapp: "919995131522",
+    linkedin: "",
+    github: "",
+    resume: ""
+  }
 } as const;
