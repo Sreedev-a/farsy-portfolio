@@ -1,0 +1,1 @@
+import Link from "next/link"; export default function NotFound(){return <main className="not-found"><span>404</span><h1>Lost in the data.</h1><p>This sequence doesn’t map to a page.</p><Link className="button primary" href="/">Return home</Link></main>}
